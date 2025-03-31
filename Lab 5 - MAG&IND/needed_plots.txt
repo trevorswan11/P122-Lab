@@ -1,0 +1,14 @@
+IND:
+===LOGGER PRO===
+- d.2.2 iii						good -> LongParallelLongIntegral
+- D.3 90 degree flip			good -> Coil90Deg
+- D.4 1600 turns square wave	good -> D41600CoilSQUARE0.5Position
+
+MAG:
+===LOGGER PRO===
+- d.3							good -> D3LongWireCoilOnProbeShifting
+
+===ORIGIN===
+- d.3 B vs. r plot				wip -> Use CSV
+- d.4 B vs. r plot				wip -> Use CSV
+- d.5 B vs. r plot				wip -> Use CSV
